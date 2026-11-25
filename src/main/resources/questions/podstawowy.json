@@ -1,0 +1,605 @@
+{
+  "name": "Podstawowy",
+  "questions": [
+    {
+      "id": "geo-01",
+      "category": "Geografia",
+      "text": "Który kraj ma większą powierzchnię?",
+      "answers": [
+        "Polska",
+        "Niemcy"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "geo-02",
+      "category": "Geografia",
+      "text": "Która rzeka jest dłuższa?",
+      "answers": [
+        "Wisła",
+        "Odra"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "geo-03",
+      "category": "Geografia",
+      "text": "Który szczyt jest wyższy?",
+      "answers": [
+        "Rysy",
+        "Śnieżka"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "geo-04",
+      "category": "Geografia",
+      "text": "Które miasto ma więcej mieszkańców?",
+      "answers": [
+        "Łódź",
+        "Kraków"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "geo-05",
+      "category": "Geografia",
+      "text": "Które państwo ma więcej mieszkańców?",
+      "answers": [
+        "Polska",
+        "Kanada"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "geo-06",
+      "category": "Geografia",
+      "text": "Które jezioro ma większą powierzchnię?",
+      "answers": [
+        "Śniardwy",
+        "Mamry"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "geo-07",
+      "category": "Geografia",
+      "text": "Która stolica leży bardziej na północ?",
+      "answers": [
+        "Helsinki",
+        "Oslo"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "geo-08",
+      "category": "Geografia",
+      "text": "Który ocean jest większy?",
+      "answers": [
+        "Indyjski",
+        "Atlantycki"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "geo-09",
+      "category": "Geografia",
+      "text": "Które państwo ma większą powierzchnię?",
+      "answers": [
+        "Australia",
+        "Brazylia"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "geo-10",
+      "category": "Geografia",
+      "text": "Która rzeka jest dłuższa?",
+      "answers": [
+        "Dunaj",
+        "Ren"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "geo-11",
+      "category": "Geografia",
+      "text": "Które miasto leży bardziej na zachód?",
+      "answers": [
+        "Szczecin",
+        "Wrocław"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "geo-12",
+      "category": "Geografia",
+      "text": "Które morze jest bardziej słone?",
+      "answers": [
+        "Morze Bałtyckie",
+        "Morze Śródziemne"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "geo-13",
+      "category": "Geografia",
+      "text": "Który szczyt jest wyższy?",
+      "answers": [
+        "Mont Blanc",
+        "Elbrus"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "geo-14",
+      "category": "Geografia",
+      "text": "Które państwo ma więcej mieszkańców?",
+      "answers": [
+        "Indonezja",
+        "Brazylia"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "his-01",
+      "category": "Historia",
+      "text": "Co wydarzyło się wcześniej?",
+      "answers": [
+        "Chrzest Polski",
+        "Bitwa pod Grunwaldem"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "his-02",
+      "category": "Historia",
+      "text": "Co wydarzyło się wcześniej?",
+      "answers": [
+        "Unia lubelska",
+        "Hołd pruski"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "his-03",
+      "category": "Historia",
+      "text": "Kto był pierwszym koronowanym królem Polski?",
+      "answers": [
+        "Mieszko I",
+        "Bolesław Chrobry"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "his-04",
+      "category": "Historia",
+      "text": "Co wydarzyło się wcześniej?",
+      "answers": [
+        "Upadek Konstantynopola",
+        "Pierwsza wyprawa Kolumba do Ameryki"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "his-05",
+      "category": "Historia",
+      "text": "Co wydarzyło się wcześniej?",
+      "answers": [
+        "Zburzenie Bastylii",
+        "Uchwalenie Konstytucji 3 maja"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "his-06",
+      "category": "Historia",
+      "text": "Kto dłużej był prezydentem USA?",
+      "answers": [
+        "Abraham Lincoln",
+        "George Washington"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "his-07",
+      "category": "Historia",
+      "text": "Co wydarzyło się wcześniej?",
+      "answers": [
+        "Lądowanie człowieka na Księżycu",
+        "Pierwszy lot człowieka w kosmos"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "his-08",
+      "category": "Historia",
+      "text": "Co wydarzyło się wcześniej w 1989 roku?",
+      "answers": [
+        "Wybory czerwcowe w Polsce",
+        "Upadek muru berlińskiego"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "his-09",
+      "category": "Historia",
+      "text": "Która bitwa była wcześniej?",
+      "answers": [
+        "Bitwa pod Grunwaldem",
+        "Bitwa pod Wiedniem"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "his-10",
+      "category": "Historia",
+      "text": "Który uniwersytet jest starszy?",
+      "answers": [
+        "Akademia Krakowska",
+        "Uniwersytet Karola w Pradze"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "nau-01",
+      "category": "Nauka",
+      "text": "Co jest cięższe?",
+      "answers": [
+        "Litr oleju",
+        "Litr wody"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "nau-02",
+      "category": "Nauka",
+      "text": "Która planeta jest większa?",
+      "answers": [
+        "Jowisz",
+        "Saturn"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "nau-03",
+      "category": "Nauka",
+      "text": "Która planeta jest bliżej Słońca?",
+      "answers": [
+        "Wenus",
+        "Mars"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "nau-04",
+      "category": "Nauka",
+      "text": "Co ma wyższą temperaturę wrzenia?",
+      "answers": [
+        "Alkohol etylowy",
+        "Woda"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "nau-05",
+      "category": "Nauka",
+      "text": "Ile kości ma dorosły człowiek?",
+      "answers": [
+        "186",
+        "206"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "nau-06",
+      "category": "Nauka",
+      "text": "Który pierwiastek ma symbol Ag?",
+      "answers": [
+        "Srebro",
+        "Złoto"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "nau-07",
+      "category": "Nauka",
+      "text": "Gdzie dźwięk rozchodzi się szybciej?",
+      "answers": [
+        "W wodzie",
+        "W powietrzu"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "nau-08",
+      "category": "Nauka",
+      "text": "Którego gazu jest więcej w powietrzu?",
+      "answers": [
+        "Tlen",
+        "Azot"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "nau-09",
+      "category": "Nauka",
+      "text": "Która planeta ma więcej księżyców?",
+      "answers": [
+        "Ziemia",
+        "Mars"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "nau-10",
+      "category": "Nauka",
+      "text": "Co jest większe?",
+      "answers": [
+        "Księżyc",
+        "Pluton"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "nau-11",
+      "category": "Nauka",
+      "text": "Która kość człowieka jest dłuższa?",
+      "answers": [
+        "Kość udowa",
+        "Kość piszczelowa"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "prz-01",
+      "category": "Przyroda",
+      "text": "Które zwierzę biega szybciej?",
+      "answers": [
+        "Struś",
+        "Gepard"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "prz-02",
+      "category": "Przyroda",
+      "text": "Które zwierzę zwykle żyje dłużej?",
+      "answers": [
+        "Koń",
+        "Słoń"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "prz-03",
+      "category": "Przyroda",
+      "text": "Które zwierzę jest większe?",
+      "answers": [
+        "Płetwal błękitny",
+        "Słoń afrykański"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "prz-04",
+      "category": "Przyroda",
+      "text": "Ile nóg ma pająk?",
+      "answers": [
+        "8",
+        "6"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "prz-05",
+      "category": "Przyroda",
+      "text": "Kim jest wieloryb?",
+      "answers": [
+        "Rybą",
+        "Ssakiem"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "prz-06",
+      "category": "Przyroda",
+      "text": "Które drzewo zrzuca igły na zimę?",
+      "answers": [
+        "Jodła",
+        "Modrzew"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "prz-07",
+      "category": "Przyroda",
+      "text": "Które zwierzę śpi dłużej w ciągu doby?",
+      "answers": [
+        "Koala",
+        "Żyrafa"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "spo-01",
+      "category": "Sport",
+      "text": "Kto zdobył więcej tytułów mistrza świata Formuły 1?",
+      "answers": [
+        "Michael Schumacher",
+        "Ayrton Senna"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "spo-02",
+      "category": "Sport",
+      "text": "Ilu zawodników jednej drużyny jest na boisku w siatkówce?",
+      "answers": [
+        "7",
+        "6"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "spo-03",
+      "category": "Sport",
+      "text": "Gdzie odbyły się pierwsze nowożytne igrzyska olimpijskie?",
+      "answers": [
+        "Paryż",
+        "Ateny"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "spo-04",
+      "category": "Sport",
+      "text": "Ile trwa mecz piłki ręcznej (czas gry)?",
+      "answers": [
+        "2 × 30 minut",
+        "2 × 45 minut"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "spo-05",
+      "category": "Sport",
+      "text": "Kto zdobył więcej Złotych Piłek?",
+      "answers": [
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "spo-06",
+      "category": "Sport",
+      "text": "Ile medali olimpijskich zdobył Adam Małysz?",
+      "answers": [
+        "2",
+        "4"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "spo-07",
+      "category": "Sport",
+      "text": "W której dyscyplinie drużyna ma więcej zawodników na boisku?",
+      "answers": [
+        "Piłka nożna",
+        "Rugby (union)"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "spo-08",
+      "category": "Sport",
+      "text": "W którym klubie Robert Lewandowski grał wcześniej?",
+      "answers": [
+        "Lech Poznań",
+        "Borussia Dortmund"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "kul-01",
+      "category": "Kultura",
+      "text": "Kto napisał „Pana Tadeusza”?",
+      "answers": [
+        "Adam Mickiewicz",
+        "Juliusz Słowacki"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "kul-02",
+      "category": "Kultura",
+      "text": "Kto napisał „Lalkę”?",
+      "answers": [
+        "Henryk Sienkiewicz",
+        "Bolesław Prus"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "kul-03",
+      "category": "Kultura",
+      "text": "Który kompozytor urodził się w Żelazowej Woli?",
+      "answers": [
+        "Stanisław Moniuszko",
+        "Fryderyk Chopin"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "kul-04",
+      "category": "Kultura",
+      "text": "Która powieść Sienkiewicza ukazała się wcześniej (w całości)?",
+      "answers": [
+        "„Quo vadis”",
+        "„Krzyżacy”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "kul-05",
+      "category": "Kultura",
+      "text": "Kto namalował „Bitwę pod Grunwaldem”?",
+      "answers": [
+        "Jan Matejko",
+        "Wojciech Kossak"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "kul-06",
+      "category": "Kultura",
+      "text": "Który polski film zdobył Oscara dla najlepszego filmu nieanglojęzycznego?",
+      "answers": [
+        "„Zimna wojna”",
+        "„Ida”"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "kul-07",
+      "category": "Kultura",
+      "text": "Który zespół powstał wcześniej?",
+      "answers": [
+        "The Rolling Stones",
+        "The Beatles"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "kul-08",
+      "category": "Kultura",
+      "text": "Kto napisał „Solaris”?",
+      "answers": [
+        "Stanisław Lem",
+        "Janusz A. Zajdel"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "kul-09",
+      "category": "Kultura",
+      "text": "Kto wcześniej dostał literacką Nagrodę Nobla?",
+      "answers": [
+        "Czesław Miłosz",
+        "Wisława Szymborska"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "kul-10",
+      "category": "Kultura",
+      "text": "Które dzieło Leonarda da Vinci powstało wcześniej?",
+      "answers": [
+        "„Mona Lisa”",
+        "„Ostatnia Wieczerza”"
+      ],
+      "correct": 1
+    }
+  ]
+}

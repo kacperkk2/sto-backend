@@ -1,0 +1,36 @@
+{
+  "name": "Test",
+  "random": false,
+  "questions": [
+    {
+      "id": "geo-01",
+      "category": "Geografia",
+      "text": "Który kraj ma większą powierzchnię?",
+      "answers": [
+        "Polska",
+        "Niemcy"
+      ],
+      "correct": 1
+    },
+    {
+      "id": "geo-02",
+      "category": "Geografia",
+      "text": "Która rzeka jest dłuższa?",
+      "answers": [
+        "Wisła",
+        "Odra"
+      ],
+      "correct": 0
+    },
+    {
+      "id": "his-01",
+      "category": "Historia",
+      "text": "Co było wcześniej?",
+      "answers": [
+        "Grunwald",
+        "Piramidy"
+      ],
+      "correct": 1
+    }
+  ]
+}
